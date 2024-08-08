@@ -1,8 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #033803;
+    --primary: #191a19;
     --light: #033803;
     --dark: #000000;
+    --dar: #ffffff;
 }
 
 .fw-medium {
